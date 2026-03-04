@@ -109,5 +109,3 @@ while True:
 
     time.sleep(60)
 print("EMA20:", last['ema20'], "EMA50:", last['ema50'])
-# -- play 
-

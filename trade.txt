@@ -1,0 +1,2 @@
+with open("trades.txt", "a") as f:
+    f.write("Bought BTC at 45000\n")
